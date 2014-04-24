@@ -1,5 +1,5 @@
 
-items ={
+items = {
   "items": [
     {
       "category": "HOMICIDIOS", 
@@ -723,7 +723,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 40, 
+      "count": 64, 
       "crime": "HOMICIDIOS", 
       "month": 1, 
       "population": 7896284, 
@@ -733,7 +733,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 51, 
+      "count": 61, 
       "crime": "HOMICIDIOS", 
       "month": 2, 
       "population": 7901667, 
@@ -743,7 +743,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 65, 
+      "count": 79, 
       "crime": "HOMICIDIOS", 
       "month": 3, 
       "population": 7907050, 
@@ -753,7 +753,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 65, 
+      "count": 82, 
       "crime": "HOMICIDIOS", 
       "month": 4, 
       "population": 7912432, 
@@ -763,7 +763,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 55, 
+      "count": 83, 
       "crime": "HOMICIDIOS", 
       "month": 5, 
       "population": 7917815, 
@@ -773,7 +773,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 63, 
+      "count": 89, 
       "crime": "HOMICIDIOS", 
       "month": 6, 
       "population": 7923198, 
@@ -783,7 +783,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 39, 
+      "count": 73, 
       "crime": "HOMICIDIOS", 
       "month": 7, 
       "population": 7928423, 
@@ -793,7 +793,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 43, 
+      "count": 76, 
       "crime": "HOMICIDIOS", 
       "month": 8, 
       "population": 7933647, 
@@ -803,7 +803,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 28, 
+      "count": 52, 
       "crime": "HOMICIDIOS", 
       "month": 9, 
       "population": 7938872, 
@@ -813,7 +813,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 39, 
+      "count": 83, 
       "crime": "HOMICIDIOS", 
       "month": 10, 
       "population": 7944096, 
@@ -823,7 +823,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 42, 
+      "count": 64, 
       "crime": "HOMICIDIOS", 
       "month": 11, 
       "population": 7949321, 
@@ -833,7 +833,7 @@ items ={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 34, 
+      "count": 57, 
       "crime": "HOMICIDIOS", 
       "month": 12, 
       "population": 7954546, 
@@ -850,9 +850,29 @@ items ={
       "state_code": 30, 
       "type": "DOLOSOS", 
       "year": 2014
+    }, 
+    {
+      "category": "HOMICIDIOS", 
+      "count": 48, 
+      "crime": "HOMICIDIOS", 
+      "month": 2, 
+      "population": 7964995, 
+      "state_code": 30, 
+      "type": "DOLOSOS", 
+      "year": 2014
+    }, 
+    {
+      "category": "HOMICIDIOS", 
+      "count": 37, 
+      "crime": "HOMICIDIOS", 
+      "month": 3, 
+      "population": 7970219, 
+      "state_code": 30, 
+      "type": "DOLOSOS", 
+      "year": 2014
     }
   ]
-}
+};
 hom_gun={
   "items": [
     {
@@ -1649,7 +1669,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 11, 
+      "count": 18, 
       "crime": "HOMICIDIOS", 
       "month": 1, 
       "population": 7896284, 
@@ -1660,7 +1680,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 17, 
+      "count": 20, 
       "crime": "HOMICIDIOS", 
       "month": 2, 
       "population": 7901667, 
@@ -1671,7 +1691,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 33, 
+      "count": 40, 
       "crime": "HOMICIDIOS", 
       "month": 3, 
       "population": 7907050, 
@@ -1682,7 +1702,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 20, 
+      "count": 26, 
       "crime": "HOMICIDIOS", 
       "month": 4, 
       "population": 7912432, 
@@ -1693,7 +1713,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 21, 
+      "count": 24, 
       "crime": "HOMICIDIOS", 
       "month": 5, 
       "population": 7917815, 
@@ -1704,7 +1724,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 28, 
+      "count": 31, 
       "crime": "HOMICIDIOS", 
       "month": 6, 
       "population": 7923198, 
@@ -1715,7 +1735,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 13, 
+      "count": 25, 
       "crime": "HOMICIDIOS", 
       "month": 7, 
       "population": 7928423, 
@@ -1726,7 +1746,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 16, 
+      "count": 22, 
       "crime": "HOMICIDIOS", 
       "month": 8, 
       "population": 7933647, 
@@ -1737,7 +1757,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 11, 
+      "count": 16, 
       "crime": "HOMICIDIOS", 
       "month": 9, 
       "population": 7938872, 
@@ -1748,7 +1768,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 15, 
+      "count": 28, 
       "crime": "HOMICIDIOS", 
       "month": 10, 
       "population": 7944096, 
@@ -1759,7 +1779,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 14, 
+      "count": 21, 
       "crime": "HOMICIDIOS", 
       "month": 11, 
       "population": 7949321, 
@@ -1770,7 +1790,7 @@ hom_gun={
     }, 
     {
       "category": "HOMICIDIOS", 
-      "count": 19, 
+      "count": 25, 
       "crime": "HOMICIDIOS", 
       "month": 12, 
       "population": 7954546, 
@@ -1785,6 +1805,28 @@ hom_gun={
       "crime": "HOMICIDIOS", 
       "month": 1, 
       "population": 7959770, 
+      "state_code": 30, 
+      "subtype": "CON ARMA DE FUEGO", 
+      "type": "DOLOSOS", 
+      "year": 2014
+    }, 
+    {
+      "category": "HOMICIDIOS", 
+      "count": 16, 
+      "crime": "HOMICIDIOS", 
+      "month": 2, 
+      "population": 7964995, 
+      "state_code": 30, 
+      "subtype": "CON ARMA DE FUEGO", 
+      "type": "DOLOSOS", 
+      "year": 2014
+    }, 
+    {
+      "category": "HOMICIDIOS", 
+      "count": 11, 
+      "crime": "HOMICIDIOS", 
+      "month": 3, 
+      "population": 7970219, 
       "state_code": 30, 
       "subtype": "CON ARMA DE FUEGO", 
       "type": "DOLOSOS", 
@@ -2665,7 +2707,7 @@ kid={
     }, 
     {
       "category": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
-      "count": 13, 
+      "count": 12, 
       "crime": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
       "month": 8, 
       "population": 7933647, 
@@ -2709,7 +2751,7 @@ kid={
     }, 
     {
       "category": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
-      "count": 10, 
+      "count": 8, 
       "crime": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
       "month": 12, 
       "population": 7954546, 
@@ -2724,6 +2766,28 @@ kid={
       "crime": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
       "month": 1, 
       "population": 7959770, 
+      "state_code": 30, 
+      "subtype": "SECUESTRO", 
+      "type": "SECUESTRO", 
+      "year": 2014
+    }, 
+    {
+      "category": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
+      "count": 14, 
+      "crime": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
+      "month": 2, 
+      "population": 7964995, 
+      "state_code": 30, 
+      "subtype": "SECUESTRO", 
+      "type": "SECUESTRO", 
+      "year": 2014
+    }, 
+    {
+      "category": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
+      "count": 17, 
+      "crime": "PRIV. DE LA LIBERTAD (SECUESTRO)", 
+      "month": 3, 
+      "population": 7970219, 
       "state_code": 30, 
       "subtype": "SECUESTRO", 
       "type": "SECUESTRO", 
@@ -3527,7 +3591,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 16, 
+      "count": 3, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 1, 
       "population": 7896284, 
@@ -3538,7 +3602,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 39, 
+      "count": 8, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 2, 
       "population": 7901667, 
@@ -3549,7 +3613,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 35, 
+      "count": 12, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 3, 
       "population": 7907050, 
@@ -3560,7 +3624,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 43, 
+      "count": 17, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 4, 
       "population": 7912432, 
@@ -3571,7 +3635,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 34, 
+      "count": 11, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 5, 
       "population": 7917815, 
@@ -3582,7 +3646,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 20, 
+      "count": 6, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 6, 
       "population": 7923198, 
@@ -3593,7 +3657,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 18, 
+      "count": 8, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 7, 
       "population": 7928423, 
@@ -3604,7 +3668,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 25, 
+      "count": 9, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 8, 
       "population": 7933647, 
@@ -3615,7 +3679,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 24, 
+      "count": 6, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 9, 
       "population": 7938872, 
@@ -3626,7 +3690,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 30, 
+      "count": 7, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 10, 
       "population": 7944096, 
@@ -3637,7 +3701,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 11, 
+      "count": 10, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 11, 
       "population": 7949321, 
@@ -3648,7 +3712,7 @@ ext={
     }, 
     {
       "category": "DELITOS PATRIMONIALES", 
-      "count": 15, 
+      "count": 4, 
       "crime": "DELITOS PATRIMONIALES", 
       "month": 12, 
       "population": 7954546, 
@@ -3663,6 +3727,28 @@ ext={
       "crime": "DELITOS PATRIMONIALES", 
       "month": 1, 
       "population": 7959770, 
+      "state_code": 30, 
+      "subtype": "EXTORSION", 
+      "type": "EXTORSION", 
+      "year": 2014
+    }, 
+    {
+      "category": "DELITOS PATRIMONIALES", 
+      "count": 24, 
+      "crime": "DELITOS PATRIMONIALES", 
+      "month": 2, 
+      "population": 7964995, 
+      "state_code": 30, 
+      "subtype": "EXTORSION", 
+      "type": "EXTORSION", 
+      "year": 2014
+    }, 
+    {
+      "category": "DELITOS PATRIMONIALES", 
+      "count": 40, 
+      "crime": "DELITOS PATRIMONIALES", 
+      "month": 3, 
+      "population": 7970219, 
       "state_code": 30, 
       "subtype": "EXTORSION", 
       "type": "EXTORSION", 
